@@ -1,3 +1,5 @@
-# <center>JAVA PALB</h1></center> 
-# <center><h1>Training Program</h1></center> 
-DSA practicing Question from GFG (greeks for geeks) and Leetcode
+<h1 align="center">JAVA PALB</h1>
+
+<h1 align="center">Training Program</h1>
+
+DSA practicing Question from GFG (geeks for geeks) and Leetcode
