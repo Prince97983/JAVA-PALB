@@ -1,4 +1,5 @@
-# JAVA PALB
+
+<h2 align="center">JAVA PALB</h2>
 
 <h2 align="center">Training Program</h2>
 
