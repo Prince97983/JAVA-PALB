@@ -1,3 +1,3 @@
 # JAVA-PALB
-# Traning Progra
+# Traning Program
 DSA practicing Question from GFG (greeks for geeks)
